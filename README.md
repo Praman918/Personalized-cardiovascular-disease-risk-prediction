@@ -1,0 +1,2 @@
+# Personalized-cardiovascular-disease-risk-prediction
+The Personalized Disease Risk Manager is a privacy-first healthcare AI for cardiovascular risk prediction. It uses Federated Learning and Differential Privacy to train accurate models collaboratively among hospitals without exposing sensitive patient data. It features eXplainable AI (XAI) insights and a responsive Streamlit clinical web interface..
